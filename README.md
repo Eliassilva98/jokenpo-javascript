@@ -51,7 +51,6 @@ Esse projeto representa uma grande conquista na minha jornada como programador. 
   <img src='https://cdn-icons-png.flaticon.com/128/12222/12222589.png' width='80px'>
 </div>
 <br>
-<br>
 ## 🎮 Demonstração
 
 ![Demonstração do Projeto Jokenpô](./assets/jokenpo-demo-hq.gif)
