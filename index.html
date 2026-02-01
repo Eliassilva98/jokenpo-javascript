@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Projeto Jokenpô</title>
+</head>
+<body>
+    <Section id="sectionCenter" class="card">
+
+        <h1 class="title">Jokenpô</h1>
+
+        <div class="actions">
+        <button id="rock" class="choice rock" type="button" aria-label="Escolher Pedra">
+        <span class="icon" aria-hidden="true">🪨</span>
+        <span class="label">Pedra</span>
+        </button>
+
+        <button id="paper" class="choice paper" type="button" aria-label="Escolher Papel">
+        <span class="icon" aria-hidden="true">📄</span>
+        <span class="label">Papel</span>
+        </button>
+
+        <button id="scissors" class="choice scissors" type="button" aria-label="Escolher Tesoura">
+        <span class="icon" aria-hidden="true">✂️</span>
+        <span class="label">Tesoura</span>
+        </button>
+        </div>
+
+        <div class="scoreboard">
+        <div class="score">
+            <p class="scoreTitle">Sua pontuação</p>
+            <p class="scoreValue"><span id="myScore">0</span></p>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="score">
+            <p class="scoreTitle">Pontuação do robô</p>
+            <p class="scoreValue"><span id="roboScore">0</span></p>
+        </div>
+        </div>
+        
+        <div id="resultDiv" class="result hidden">
+        <img id="resultImage" alt="Resultado do jogo">
+        <p id="result"></p>
+        </div>
+        </Section>
+        
+</body>
+<script src="./scripts.js"></script>
+</html>
