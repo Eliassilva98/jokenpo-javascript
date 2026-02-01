@@ -52,5 +52,7 @@ Esse projeto representa uma grande conquista na minha jornada como programador. 
 </div>
 <br>
 <br>
-![Demonstração do Projeto Jokenpô]
-(./assets/jokenpo-demo-hq.gif)
+## 🎮 Demonstração
+
+![Demonstração do Projeto Jokenpô](./assets/jokenpo-demo-hq.gif)
+
