@@ -48,7 +48,6 @@ Esse projeto representa uma grande conquista na minha jornada como programador. 
   <img src='https://cdn-icons-png.flaticon.com/128/1051/1051277.png' width='40'>
   <img src='https://cdn-icons-png.flaticon.com/128/15474/15474190.png' width='40'>
   <img src='https://cdn-icons-png.flaticon.com/128/5968/5968292.png' width='40'>
-  <img src='https://cdn-icons-png.flaticon.com/128/12222/12222589.png' width='40'>
 </div>
 <br>
 ## 🎮 Demonstração
